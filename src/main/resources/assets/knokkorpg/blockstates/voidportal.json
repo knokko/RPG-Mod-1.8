@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "knokkorpg:voidportal" },
+            { "model": "knokkorpg:voidportal_mirrored" },
+            { "model": "knokkorpg:voidportal", "y": 180 },
+            { "model": "knokkorpg:voidportal_mirrored", "y": 180 }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "knokkorpg:rubyore" },
+            { "model": "knokkorpg:rubyore_mirrored" },
+            { "model": "knokkorpg:rubyore", "y": 180 },
+            { "model": "knokkorpg:rubyore_mirrored", "y": 180 }
+        ]
+    }
+}

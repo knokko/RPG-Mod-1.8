@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "knokkorpg:basalt" },
+            { "model": "knokkorpg:basalt_mirrored" },
+            { "model": "knokkorpg:basalt", "y": 180 },
+            { "model": "knokkorpg:basalt_mirrored", "y": 180 }
+        ]
+    }
+}

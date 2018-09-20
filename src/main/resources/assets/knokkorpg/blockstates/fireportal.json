@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "knokkorpg:fireportal" },
+            { "model": "knokkorpg:fireportal_mirrored" },
+            { "model": "knokkorpg:fireportal", "y": 180 },
+            { "model": "knokkorpg:fireportal_mirrored", "y": 180 }
+        ]
+    }
+}

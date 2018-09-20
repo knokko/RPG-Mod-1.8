@@ -1,0 +1,16 @@
+[
+{
+  "modid": "knokkorpg",
+  "name": "Knokko RPG",
+  "description": "RPG mod with custom class and race system.",
+  "version": "0.1.2",
+  "mcversion": "1.8.0",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["knokko"],
+  "credits": "The Forge guys, for making minecraft forge, and knokko for writing this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

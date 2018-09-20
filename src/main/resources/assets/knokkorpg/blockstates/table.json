@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "knokkorpg:table" },
+            { "model": "knokkorpg:table_mirrored" },
+            { "model": "knokkorpg:table", "y": 180 },
+            { "model": "knokkorpg:table_mirrored", "y": 180 }
+        ]
+    }
+}
